@@ -1,0 +1,9 @@
+read myValue1
+read myValue2
+
+myValue1 := 8.89 -7.89
+myValue2 := 2.25 + 7.35
+
+
+write myValue1
+write myValue2

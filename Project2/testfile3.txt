@@ -1,0 +1,7 @@
+read numberOfTokens
+numberOfTokens = numberOfTokens + "TTU"
+write numberOfTokens
+
+
+
+/*This is not a valid program. Thus, it will give you an error".*/
