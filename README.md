@@ -1,7 +1,6 @@
 # CS3361-Project2
 
 The code is implemented in java.
-For go to working directory where .java files are located
 
 Compile
 -------------
