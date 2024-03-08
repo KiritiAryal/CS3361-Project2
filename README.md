@@ -1,6 +1,6 @@
 # CS3361-Project2
 
-The code is implemented in java.
+This is the parser. The code is implemented in java.
 
 Compile
 -------------
